@@ -3,6 +3,7 @@ site_name: Timeguessr Nerdshit
 theme:
     language: de
     name: simple-blog
+    theme_style: dark
     logo: images/logo.png
     favicon: images/logo.png
     features:
